@@ -1,6 +1,6 @@
 # Hello, my name is Maximilian 🌚
 
-### I graduated from the Polytechnic University of Saint-Petersburg. Today I study at Higher School of Economics. I am a specialist in the field of computational linguistics and iOS App development.
+### I graduated from the  Peter the Great St.Petersburg Polytechnic University. Today I study at Higher School of Economics. I am a specialist in the field of computational linguistics and iOS App development.
 
 # Interests: *Swift*, *IOS*, *Python*, *Machine Learning*, *Deep Learning*, *AI*
 
