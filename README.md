@@ -2,7 +2,7 @@
 
 ### I graduated from the  Peter the Great St.Petersburg Polytechnic University. Today I study at Higher School of Economics. I am a specialist in the field of computational linguistics, Machine Learning, Deep Learning, NLP/LLM.
 
-# Interests: *Python*, *Deep Learning*, *AI*, *NLP*, *LLM*, *NER*,
+# Interests: *AI*, *NLP*, *LLM*, *NER*, *Topic Modelling*, *Summarization*, *Dialogical Sytems*
 
 # Technologies:
 <img src= "https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor = black " width="224"/> 
