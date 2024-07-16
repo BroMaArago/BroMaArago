@@ -6,5 +6,6 @@
 
 # Technologies:
 <img src= "https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor = black " width="224"/> 
+<img src= "https://img.shields.io/badge/Benchmarked%20by-asv-blue " width="224"/>
 
 <img src="https://komarev.com/ghpvc/?username=BroMaArago&style=flat-square&color=blue" alt="" width="300" />
